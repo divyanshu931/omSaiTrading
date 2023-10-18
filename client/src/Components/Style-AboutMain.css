@@ -1,0 +1,12 @@
+.About-background {
+  background-image: url("../../public/images/blueBg.JPG");
+  background-size: cover;
+}
+
+.heading-underline {
+  text-decoration: underline;
+  overflow-y: hidden;
+}
+.over{
+  overflow-y: hidden;
+}

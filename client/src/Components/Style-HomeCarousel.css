@@ -1,0 +1,30 @@
+.over{
+    overflow-y: hidden;
+}
+.carousel-container
+{   overflow-y:hidden;
+    height:30vh !important;
+    width:100%;
+    background-size:cover !important;
+}
+
+
+@media (min-width: 768px) {
+    .carousel-container {
+        
+        height: 50vh !important;
+        width:100%;
+        background-size:cover !important;
+    }
+}
+
+/* Adjust the height for larger screens */
+@media (min-width: 1024px) {
+    .carousel-container {
+      
+    
+        height: 80vh !important;
+        width:100%;
+        background-size:cover !important;
+    }
+}
